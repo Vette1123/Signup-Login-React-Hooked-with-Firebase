@@ -1,6 +1,8 @@
 # Getting Started with Create React App
 
-[![Watch The Video](https://www.ieltsadvantage.com/wp-content/uploads/2020/02/ielts-writing-task-2.png)](https://www.youtube.com/watch?v=IohTKLZjDMM)
+Click on The Image to watch the video.
+
+[![Watch The Video](https://www.howtogeek.com/wp-content/uploads/2021/08/YouTube-logo-hero-1.png?width=1198&trim=1,1&bg-color=000&pad=1,1)](https://www.youtube.com/watch?v=IohTKLZjDMM)
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
