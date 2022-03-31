@@ -1,5 +1,7 @@
 # Getting Started with Create React App
 
+# <a href="{https://www.youtube.com/watch?v=IohTKLZjDMM}" title="React Task 2"><img src="{https://www.ieltsadvantage.com/wp-content/uploads/2020/02/ielts-writing-task-2.png}" alt="Alternate Text" /></a>
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
