@@ -1,6 +1,6 @@
 # Getting Started with Create React App
 
-[![Alternate Text]({https://www.ieltsadvantage.com/wp-content/uploads/2020/02/ielts-writing-task-2.png})]({https://www.youtube.com/watch?v=IohTKLZjDMM} "Video Link")
+[![Watch The Video](https://www.ieltsadvantage.com/wp-content/uploads/2020/02/ielts-writing-task-2.png)](https://www.youtube.com/watch?v=IohTKLZjDMM)
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
